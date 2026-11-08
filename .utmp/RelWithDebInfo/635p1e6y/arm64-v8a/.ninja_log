@@ -1,12 +1,12 @@
 # ninja log v5
-83	265	8158795507885369	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b611e3268170c54c
-268	439	8158795509474489	C:/Users/sergy/Desktop/Segundo/ProyectosUnity/Proyecto2D/RoyalReigns/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/635p1e6y/obj/arm64-v8a/libswappywrapper.so	ba2bdc33cb0e4d75
-26	1483	8158795519997245	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b125416a575dc5bd
-46	1491	8158795520023361	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3879871428c8076b
-11	1524	8158795520432994	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	95713cf5467b938b
-57	1529	8158795520476000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	28339bacd144ab05
-19	1583	8158795521038032	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	99e37fd0507384fe
-69	1639	8158795521598724	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8d7a87aa6faf5f87
-36	1774	8158795522941194	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ef6e4d019c0a6ad6
-1	1851	8158795523693783	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2ab756e052d12324
-1852	2045	8158795525640350	C:/Users/sergy/Desktop/Segundo/ProyectosUnity/Proyecto2D/RoyalReigns/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/635p1e6y/obj/arm64-v8a/libgame.so	def0f59193c26e15
+85	240	8158820150232517	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b611e3268170c54c
+241	456	8158820152090990	C:/Users/sergy/Desktop/Segundo/ProyectosUnity/Proyecto2D/RoyalReigns/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/635p1e6y/obj/arm64-v8a/libswappywrapper.so	ba2bdc33cb0e4d75
+45	838	8158820156187761	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b125416a575dc5bd
+1	847	8158820156273348	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	95713cf5467b938b
+56	871	8158820156515379	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3879871428c8076b
+26	908	8158820156881899	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	99e37fd0507384fe
+68	918	8158820156982506	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	28339bacd144ab05
+76	984	8158820157669287	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8d7a87aa6faf5f87
+37	1034	8158820158147199	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ef6e4d019c0a6ad6
+15	1103	8158820158815247	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2ab756e052d12324
+1103	1207	8158820159851364	C:/Users/sergy/Desktop/Segundo/ProyectosUnity/Proyecto2D/RoyalReigns/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/635p1e6y/obj/arm64-v8a/libgame.so	def0f59193c26e15

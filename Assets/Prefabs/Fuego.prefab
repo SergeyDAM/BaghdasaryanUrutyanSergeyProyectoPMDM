@@ -128,6 +128,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9db5136d60125e4a955f0c5172a8de6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Fuego
+  activo: 5
+  inactivo: 5
 --- !u!60 &3818972703142488413
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -138,7 +140,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b3af3f396e493094a86e5088dd74f641, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
