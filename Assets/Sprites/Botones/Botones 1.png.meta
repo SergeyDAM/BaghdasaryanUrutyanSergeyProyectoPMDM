@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: db968b0e91d36dd4fbc64da55ccef517
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1712802514665587956
+    second: Botones 1_0
+  - first:
+      213: 5021219168656165894
+    second: Botones 1_1
+  - first:
+      213: -5309554675235388109
+    second: Botones 1_2
+  - first:
+      213: -3962051920846205444
+    second: Botones 1_3
+  - first:
+      213: 4219395823082485670
+    second: Botones 1_4
+  - first:
+      213: 8282541956971752770
+    second: Botones 1_5
+  - first:
+      213: 2212851973701034368
+    second: Botones 1_6
+  - first:
+      213: -1411941155701673206
+    second: Botones 1_7
+  - first:
+      213: 6660324531576845947
+    second: Botones 1_8
+  - first:
+      213: 8176609096916407955
+    second: Botones 1_9
+  - first:
+      213: -8095294038425800165
+    second: Botones 1_10
+  - first:
+      213: -4197635236919009985
+    second: Botones 1_11
+  - first:
+      213: 6705970857053367776
+    second: Botones 1_12
+  - first:
+      213: 4132050266499777359
+    second: Botones 1_13
+  - first:
+      213: -4699850753077149086
+    second: Botones 1_14
+  - first:
+      213: 8035591935503537225
+    second: Botones 1_15
+  - first:
+      213: -7368197377731983850
+    second: Botones 1_16
+  - first:
+      213: -8831468449986551099
+    second: Botones 1_17
+  - first:
+      213: 3843926200477730103
+    second: Botones 1_18
+  - first:
+      213: -8126271828223345492
+    second: Botones 1_19
+  - first:
+      213: -3053249594903672989
+    second: Botones 1_20
+  - first:
+      213: -4009146882914941163
+    second: Botones 1_21
+  - first:
+      213: -7071748926147384532
+    second: Botones 1_22
+  - first:
+      213: 6385261783490825544
+    second: Botones 1_23
+  - first:
+      213: -240010053926545445
+    second: Botones 1_24
+  - first:
+      213: -317695585062850633
+    second: Botones 1_25
+  - first:
+      213: -3623125949874481680
+    second: Botones 1_26
+  - first:
+      213: 6796533315909587066
+    second: Botones 1_27
+  - first:
+      213: 2090161232897329711
+    second: Botones 1_28
+  - first:
+      213: -5358117070937472636
+    second: Botones 1_29
+  - first:
+      213: -5915656276685448302
+    second: Botones 1_30
+  - first:
+      213: 6425509366339982482
+    second: Botones 1_31
+  - first:
+      213: 1509495648912743502
+    second: Botones 1_32
+  - first:
+      213: 5655499922366991813
+    second: Botones 1_33
+  - first:
+      213: 1404167045394683245
+    second: Botones 1_34
+  - first:
+      213: -6020291199564089567
+    second: Botones 1_35
+  - first:
+      213: 1398393555402308838
+    second: Botones 1_36
+  - first:
+      213: 5979761076931707534
+    second: Botones 1_37
+  - first:
+      213: -4891558971841196733
+    second: Botones 1_38
+  - first:
+      213: -8171813133132474205
+    second: Botones 1_39
+  - first:
+      213: -78333630805862310
+    second: Botones 1_40
+  - first:
+      213: 4373217110496537393
+    second: Botones 1_41
+  - first:
+      213: 4396070043082593667
+    second: Botones 1_42
+  - first:
+      213: 7444079985622633504
+    second: Botones 1_43
+  - first:
+      213: -1418528825084728307
+    second: Botones 1_44
+  - first:
+      213: -422623315455397736
+    second: Botones 1_45
+  - first:
+      213: 7546667074914200091
+    second: Botones 1_46
+  - first:
+      213: 7658898931458252192
+    second: Botones 1_47
+  - first:
+      213: -6529286513221448368
+    second: Botones 1_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botones 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 470
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c901ffc815c710800000000000000
+      internalID: 1712802514665587956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones 1_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 371
+        width: 490
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c0227fa34fea540800000000000000
+      internalID: 5021219168656165894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones 1_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 371
+        width: 463
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3358413772ca056b0800000000000000
+      internalID: -5309554675235388109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 477
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ab13bb9861724fa5224e237e8a751
+      internalID: -3962051920846205444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones 1_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 15
+        width: 485
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206ab2a6997f74849bddd7bb14a6101d
+      internalID: 4219395823082485670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botones 1_5
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 21
+        width: 455
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db336caabdc78345aa2e46d70b77154
+      internalID: 8282541956971752770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44189fbd9221de346b525ae919f81274
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":500.0,"y":353.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Botones 1_0: 1712802514665587956
+      Botones 1_1: 5021219168656165894
+      Botones 1_2: -5309554675235388109
+      Botones 1_3: -3962051920846205444
+      Botones 1_4: 4219395823082485670
+      Botones 1_5: 8282541956971752770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

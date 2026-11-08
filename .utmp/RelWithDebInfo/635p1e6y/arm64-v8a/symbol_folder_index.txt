@@ -1,0 +1,1 @@
+C:\Users\sergy\Desktop\Segundo\ProyectosUnity\Proyecto2D\RoyalReigns\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\635p1e6y\obj\arm64-v8a

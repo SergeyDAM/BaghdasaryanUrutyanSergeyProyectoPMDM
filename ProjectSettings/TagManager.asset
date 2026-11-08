@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Terreno
+  - Suelo
+  - Enemigo
+  - Obstaculo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Suelo
+  - Water
+  - UI
+  - Mundo
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mundo
+    uniqueID: 527602139
+    locked: 0
+  - name: CheckPoint
+    uniqueID: 4044549589
+    locked: 0
+  - name: Player
+    uniqueID: 415864233
+    locked: 0
+  m_RenderingLayers:
+  - Default
